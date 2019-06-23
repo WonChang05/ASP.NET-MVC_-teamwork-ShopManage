@@ -9,6 +9,9 @@
 營收分析
 ![alt text](https://raw.githubusercontent.com/WonChang05/ASP.NET-MVC_-teamwork-ShopManage/master/teamworkShopManage/revenue.png?token=AMCPWO34ERKNGVGG2I7ZSOK5B6ZM4)
 
+區域熱度分析
+![alt text](https://raw.githubusercontent.com/WonChang05/ASP.NET-MVC_-teamwork-ShopManage/master/teamworkShopManage/taiwan.png)
+
 單品分析
 ![alt text](https://raw.githubusercontent.com/WonChang05/ASP.NET-MVC_-teamwork-ShopManage/master/teamworkShopManage/statistic.png?token=AMCPWO4VAKIC3FCZ5W763NC5B6ZOE)
 
